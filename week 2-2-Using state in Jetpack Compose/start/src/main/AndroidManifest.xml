@@ -37,8 +37,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.codelabs.state.examples.HelloCodelabActivity"
-            android:exported="true"
-            />
+            android:exported="true">
+        </activity>
         <activity android:name="com.codelabs.state.examples.HelloCodeLabActivityWithViewModel"
             android:exported="true"
             />
